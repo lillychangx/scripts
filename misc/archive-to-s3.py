@@ -32,8 +32,6 @@ from time import strftime
 # For more information about this interface to Amazon S3, see:
 # http://boto.readthedocs.org/en/latest/s3_tut.html
 
-AWS_ACCESS_KEY_ID='AKIAJOR2ZRBZZNKUSPJA'
-AWS_SECRET_ACCESS_KEY='oKxXSHfY2Uvp2z3QnYiEcwPSH6+0k5TzqP7d6Wq7'
 
 file_name = "./sample_rba_scripts"
 bucket_name = "vistara-wiki-backups"
